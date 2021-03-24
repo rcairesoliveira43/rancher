@@ -18,5 +18,5 @@ python-digitalocean==1.13.2
 python-terraform==0.10.1
 PyYAML==5.2
 requests==2.22.0
-rsa==4.0
+rsa==4.1
 websocket-client==0.57.0
